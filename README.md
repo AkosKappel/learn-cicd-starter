@@ -1,6 +1,7 @@
 # learn-cicd-starter (Notely)
 
-![alt text goes here](https://github.com/AkosKappel/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
+![Continuout Integration](https://github.com/AkosKappel/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
+![Continuout Deployment](https://github.com/AkosKappel/learn-cicd-starter/actions/workflows/cd.yml/badge.svg)
 
 This repo contains the starter code for the "Notely" application for the "Learn CICD" course on [Boot.dev](https://boot.dev).
 
