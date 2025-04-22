@@ -7,6 +7,10 @@ import (
 )
 
 var ErrNoAuthHeaderIncluded = errors.New("no authorization header included")
+func unused() {
+    // this function does nothing
+    // and is called nowhere
+}
 
 // GetAPIKey -
 func GetAPIKey(headers http.Header) (string, error) {
